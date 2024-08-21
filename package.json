@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-tailwind-template",
+  "name": "bigjconvenience",
   "version": "1.0.0",
   "description": "Template for using Eleventy and Tailwind CSS",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremydaly/eleventy-tailwind-template.git"
+    "url": "git+https://github.com/alsessions/bigjconvenience.git"
   },
-  "author": "Jeremy Daly",
+  "author": "Al Sessions",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeremydaly/eleventy-tailwind-template/issues"
+    "url": "https://github.com/alsessions/bigjconvenience.git/issues"
   },
-  "homepage": "https://github.com/jeremydaly/eleventy-tailwind-template#readme",
+  "homepage": "https://github.com/alsessions/bigjconvenience.git#readme",
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0-alpha.13",
     "autoprefixer": "^10.4.19",
