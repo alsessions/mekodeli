@@ -7,3 +7,7 @@
 3. Run `npm start`
 
 Get it the way you want locally, commit and hit the Netlify button.
+
+Hook up a domain and Bob's your uncle!
+
+[Demo Site](https://bigjsmokeshop.netlify.app/)
