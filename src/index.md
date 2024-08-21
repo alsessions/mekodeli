@@ -7,7 +7,7 @@ order: 1
 ---
 
 <h1 class="pt-20 pb-6 px-4 text-center">
-	<span class="text-6xl md:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+	<span class="text-6xl md:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 px-4">
 		Big J's Convenience
 	</span>
 </h1>
