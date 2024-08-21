@@ -5,6 +5,8 @@ module.exports = {
     extend: {},
   },
   variants: {},
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/aspect-ratio'),
+  ],
   content: ["./src/**/*.{md,njk,sass}"],
 };
