@@ -11,7 +11,7 @@ order: 1
 		Big J's Convenience
 	</span>
 </h1>
-<h2 class="pb-12 text-2xl md:text-4xl font-bold text-center text-gray-700">
+<h2 class="pb-12 text-2xl md:text-4xl font-bold text-center text-purple-800">
 	{{ config.siteTitle }}
 </h2>
 

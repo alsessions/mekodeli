@@ -11,7 +11,7 @@ order: 1
 		Contact Us
 	</span>
 </h1>
-<h2 class="pb-12 text-4xl font-bold text-center text-gray-500">
+<h2 class="pb-12 text-4xl font-bold text-center text-purple-800">
 	{{ config.siteTitle }}
 </h2>
 <section class="my-20 px-4 mx-auto">

@@ -11,6 +11,14 @@ order: 1
 		About Us
 	</span>
 </h1>
-<h2 class="pb-12 text-4xl font-bold text-center text-gray-500">
+<h2 class="pb-12 text-4xl font-bold text-center text-purple-800">
 	{{ config.siteTitle }}
 </h2>
+<section class="prose md:prose-lg mx-auto max-w-6xl">
+<h2>If I knew anything at all about this place, I would put something here.</h2>
+<p>So I'll put this here instead.</p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quod autem satis est, eo quicquid accessit, nimium est; Apud ceteros autem philosophos, qui quaesivit aliquid, tacet; Duo Reges: constructio interrete. Negat esse eam, inquit, propter se expetendam. Quid censes in Latino fore? His singulis copiose responderi solet, sed quae perspicua sunt longa esse non debent. Non quam nostram quidem, inquit Pomponius iocans; 
+
+Non dolere, inquam, istud quam vim habeat postea videro; Nam his libris eum malo quam reliquo ornatu villae delectari. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Nam quibus rebus efficiuntur voluptates, eae non sunt in potestate sapientis. Si enim ita est, vide ne facinus facias, cum mori suadeas. Nam quibus rebus efficiuntur voluptates, eae non sunt in potestate sapientis. Proclivi currit oratio. Sic enim censent, oportunitatis esse beate vivere. Quo plebiscito decreta a senatu est consuli quaestio Cn. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. 
+</section>
