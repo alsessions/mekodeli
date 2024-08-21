@@ -14,7 +14,7 @@ order: 1
 <h2 class="pb-12 text-4xl font-bold text-center text-purple-900">
 	{{ config.siteTitle }}
 </h2>
-<section class="prose md:prose-lg mx-auto max-w-6xl">
+<section class="prose md:prose-lg mx-auto max-w-6xl px-4">
 <h2>If I knew anything at all about this place, I would put something here.</h2>
 <p>So I'll put this here instead.</p>
 
