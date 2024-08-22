@@ -6,13 +6,13 @@ modified: 2022-01-09 00:00:00
 order: 1
 ---
 
-<h1 class="pt-10 md:pt-20 pb-6 px-4 text-center">
-	<span class="text-5xl md:text-8xl font-bold leading-normal text-transparent bg-clip-text bg-gradient-to-r from-indigo-800 via-purple-500 to-pink-500 px-4">
+<h1 class="pt-16 md:pt-20 pb-6 px-4 text-center">
+	<span class="text-4xl md:text-8xl font-bold leading-none text-transparent bg-clip-text bg-gradient-to-r from-indigo-800 via-purple-500 to-pink-500 px-4">
 		Big J Convenience <br>
 		&amp; Exotics
 	</span>
 </h1>
-<h2 class="pb-10 md:pb-12 text-2xl md:text-4xl font-bold text-center text-purple-800 px-4 uppercase">
+<h2 class="pb-6 md:pb-12 text-xl md:text-3xl font-bold text-center text-purple-800 px-4 uppercase">
 	{{ config.siteTitle }}
 </h2>
 
