@@ -9,5 +9,5 @@ module.exports = {
     require('@tailwindcss/aspect-ratio'),
     require('@tailwindcss/typography'),
   ],
-  content: ["./src/**/*.{md,njk,sass}"],
+  content: ["./src/**/*.{md,njk,sass,html}"],
 };
