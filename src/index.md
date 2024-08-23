@@ -6,7 +6,7 @@ modified: 2022-01-09 00:00:00
 order: 1
 ---
 <div class="container max-w-5xl mx-auto text-xl text-center mb-20">
-    <div class="grid md:grid-cols-2  mx-auto mt-20 mb-40 ">
+    <div class="grid md:grid-cols-2 max-w-5xl px-4  mx-auto mt-20 mb-40 ">
         <div>
             <img src="/images/big-js.jpg" class="mx-auto shadow-lg rounded">
         </div>
