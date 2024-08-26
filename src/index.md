@@ -8,7 +8,7 @@ order: 1
 <div class="max-w-7xl mx-auto text-xl text-center mb-20">
     <div class="grid md:grid-cols-12 max-w-7xl px-4  mx-auto mt-20 mb-40 ">
         <div class="md:col-span-7 mx-auto">
-            <img src="/images/interior-640.webp" class="mx-auto shadow-lg rounded">
+            <img src="/images/interior-640.webp" class="mx-auto shadow-lg rounded" alt="image of store interior" title="Big J's Convenience">
         </div>
         <div class="md:col-span-5 mx-auto text-center">
             <h2 class="text-purple-800 text-3xl md:text-4xl mt-10 md:mt-0 mb-10 font-bold mx-auto">Daily &amp; Weekly Specials</h2>

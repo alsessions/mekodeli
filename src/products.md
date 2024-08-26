@@ -16,7 +16,7 @@ order: 1
 </h2>
     <div class="grid md:grid-cols-12 max-w-7xl px-4  mx-auto mt-20 mb-40 ">
         <div class="md:col-span-6 mx-auto">
-            <img src="/images/kratom-640px.webp" class="mx-auto shadow-lg rounded">
+            <img src="/images/kratom-640px.webp" class="mx-auto shadow-lg rounded" alt="Image of Kratom display">
         </div>
         <div class="md:col-span-6 mx-auto text-center">
             <h2 class="text-purple-800 text-3xl md:text-5xl mt-10 md:mt-0 mb-10 font-bold mx-auto">Kratom &amp; More!</h2>
@@ -34,7 +34,7 @@ order: 1
  <p class="text-xl leading-relaxed text-purple-700 font-bold mt-10 uppercase">Hard to find chips, candy and more!</p>
 </div>
 <div class="md:col-span-6 mx-auto">
-            <img src="/images/rack-640px.webp" class="mx-auto shadow-lg rounded">
+            <img src="/images/rack-640px.webp" class="mx-auto shadow-lg rounded" alt="Image of snack display">
         </div>
         <div>
         </div>
