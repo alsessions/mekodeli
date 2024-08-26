@@ -11,7 +11,7 @@ order: 1
             <img src="/images/interior-640.jpg" class="mx-auto shadow-lg rounded">
         </div>
         <div class="md:col-span-5 mx-auto text-center">
-            <h2 class="text-purple-800 text-3xl md:text-3xl mt-10 md:mt-0 mb-10 font-bold mx-auto">Daily &amp; Weekly Specials</h2>
+            <h2 class="text-purple-800 text-3xl md:text-4xl mt-10 md:mt-0 mb-10 font-bold mx-auto">Daily &amp; Weekly Specials</h2>
             <p class="text-xl leading-relaxed text-purple-700 font-bold uppercase">Kratom &amp; More</p>
             <p class="px-4 md:px-14">Only the highest quality from the best brands.</p>
             <p class="text-xl leading-relaxed text-purple-700 font-bold mt-10 uppercase">Smoking Accessories</p>
