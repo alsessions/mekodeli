@@ -30,7 +30,7 @@ order: 1
 	<p>7789 Oswego Rd.</p><p>Liverpool, NY 13090</p>
 	</div>
 	<div class="aspect-w-16 aspect-h-16 px-4 ">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5821.9135955621105!2d-76.23434572318563!3d43.14743648499418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d9efa9ecae94d5%3A0x64f13ced5c6f3de3!2s7789%20Oswego%20Rd%2C%20Liverpool%2C%20NY%2013090!5e0!3m2!1sen!2sus!4v1724265890274!5m2!1sen!2sus" style="border:0;" allowfullscreen="yes" loading="lazy" referrerpolicy="no-referrer-when-downgrade"</iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5821.9135955621105!2d-76.23434572318563!3d43.14743648499418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d9efa9ecae94d5%3A0x64f13ced5c6f3de3!2s7789%20Oswego%20Rd%2C%20Liverpool%2C%20NY%2013090!5e0!3m2!1sen!2sus!4v1724265890274!5m2!1sen!2sus" style="border:0;" allowfullscreen="yes" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 	</div>
 	</div>
 </div>
