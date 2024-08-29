@@ -40,7 +40,7 @@ order: 1
             </div>
             <div class="grid md:grid-cols-12 px-4 mx-auto mt-10 md:mt-20 mb-10 md:mb-40">
                 <div class="md:col-span-6 mx-auto">
-                    <img src="/images/wall.jpg" class="mx-auto shadow-lg rounded" alt="Image of glassware">
+                    <img src="/images/wall.webp" class="mx-auto shadow-lg rounded" alt="Image of glassware">
                 </div>
                 <div class="md:col-span-6 mx-auto text-center">
                     <h2 class="text-purple-800 text-3xl md:text-5xl md:mt-10 mb-2 font-bold mx-auto">Smoking Accessories</h2>
@@ -49,12 +49,12 @@ order: 1
                 </div>
             </div>
             <div class="grid md:grid-cols-3 gap-4 px-4">
-                <img src="/images/display02.jpg" class="mx-auto shadow-lg rounded block" alt="Image of glassware.">
-                <img src="/images/tobacco.jpg" class="mx-auto shadow-lg rounded block" alt="Image of tobacco display.">
-                <img src="/images/snacks01.jpg" class="mx-auto shadow-lg rounded block" alt="Image of snacks.">
-                <img src="/images/candy01.jpg" class="mx-auto shadow-lg rounded block" alt="Image of store candy display.">
-                <img src="/images/candy02.jpg" class="mx-auto shadow-lg rounded block" alt="Image of store candy display.">
-                <img src="/images/candy.jpg" class="mx-auto shadow-lg rounded block" alt="Image of store candy display.">
+                <img src="/images/display02.webp" class="mx-auto shadow-lg rounded block" alt="Image of glassware.">
+                <img src="/images/tobacco.webp" class="mx-auto shadow-lg rounded block" alt="Image of tobacco display.">
+                <img src="/images/snacks01.webp" class="mx-auto shadow-lg rounded block" alt="Image of snacks.">
+                <img src="/images/candy01.webp" class="mx-auto shadow-lg rounded block" alt="Image of store candy display.">
+                <img src="/images/candy02.webp" class="mx-auto shadow-lg rounded block" alt="Image of store candy display.">
+                <img src="/images/candy.webp" class="mx-auto shadow-lg rounded block" alt="Image of store candy display.">
             </div>
         </section>
     </div>
