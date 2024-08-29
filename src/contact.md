@@ -5,15 +5,21 @@ tags: page
 modified: 2022-01-09 00:00:00
 order: 1
 ---
-<div class="min-h-screen">
-<h1 class="pt-20 pb-6 px-4 text-center">
-	<span class="text-6xl md:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
-		Contact Us
-	</span>
-</h1>
-<h2 class="pb-12 text-4xl font-bold text-center text-purple-800">
-	{{ config.siteTitle }}
-</h2>
+ <header>
+     <header class="bg-black mb-20">
+      <h1 class="pt-16 md:pt-24 px-4 text-center">
+        <span class="text-4xl md:text-8xl font-bold leading-none text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-300 to-pink-300 px-4">
+         Contact Us
+        </span>
+      </h1>
+      <h2 class="py-6 md:py-20 text-xl md:text-3xl font-bold text-center text-purple-300 px-4 uppercase">
+        {{ config.siteTitle }}
+      </h2>
+    </header>
+
+<div class="min-h-screen max-w-6xl mx-auto">
+
+<section class="prose md:prose-lg mx-auto max-w-6xl px-4">
 <section class="my-20 px-4 mx-auto">
 <div class="grid md:grid-cols-2 mx-auto text-lg px-4 gap-10">
 	<div>

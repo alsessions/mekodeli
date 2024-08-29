@@ -5,17 +5,22 @@ tags: page
 modified: 2022-01-09 00:00:00
 order: 1
 ---
+ <header>
+     <header class="bg-black mb-20">
+      <h1 class="pt-16 md:pt-24 px-4 text-center">
+        <span class="text-4xl md:text-8xl font-bold leading-none text-transparent bg-clip-text bg-gradient-to-r from-indigo-400 via-purple-300 to-pink-300 px-4">
+         About Us
+        </span>
+      </h1>
+      <h2 class="py-6 md:py-20 text-xl md:text-3xl font-bold text-center text-purple-300 px-4 uppercase">
+        {{ config.siteTitle }}
+      </h2>
+    </header>
 
-<h1 class="pt-20 pb-6 px-4 text-center">
-	<span class="text-6xl md:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
-		About Us
-	</span>
-</h1>
-<h2 class="pb-12 text-4xl font-bold text-center text-purple-800">
-	{{ config.siteTitle }}
-</h2>
-<section class="prose md:prose-lg mx-auto max-w-6xl px-4">
-<h2>Welcome to Big J Convenience and Exotics, your premier destination for smoking accessories products in Liverpool, New York.</h2>
+<div class="min-h-screen max-w-6xl mx-auto">
+
+<section class="prose md:prose-lg mx-auto max-w-5xl px-4">
+
 
 
 <p>Welcome to Big J Exotic and Convenience, your one-stop shop located in Liverpool, New York, offering a unique blend of smoke shop goods alongside a wide variety of organic foods and exotic snacks. Our store caters to individuals looking for a diverse range of products that cater to their lifestyle choices, whether it be relaxation, health, or exploration of new tastes. </p>
