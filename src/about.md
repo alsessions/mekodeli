@@ -23,7 +23,7 @@ order: 1
 
 
 
-<p>Welcome to Big J Exotic and Convenience, your one-stop shop located in Liverpool, New York, offering a unique blend of smoke shop goods alongside a wide variety of organic foods and exotic snacks. Our store caters to individuals looking for a diverse range of products that cater to their lifestyle choices, whether it be relaxation, health, or exploration of new tastes.test </p>
+<p>Welcome to Big J Exotic and Convenience, your one-stop shop located in Liverpool, New York, offering a unique blend of smoke shop goods alongside a wide variety of organic foods and exotic snacks. Our store caters to individuals looking for a diverse range of products that cater to their lifestyle choices, whether it be relaxation, health, or exploration of new tastes.</p>
 
 <img src="/images/wall.webp" alt="Image of store counter." class="mx-auto">
 
