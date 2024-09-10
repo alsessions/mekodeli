@@ -1,7 +1,7 @@
 {
-  "name": "bigjconvenience",
+  "name": "mekodeli",
   "version": "1.0.0",
-  "description": "Template for using Eleventy and Tailwind CSS",
+  "description": "Eleventy and Tailwind - Restaurant, Netlify",
   "scripts": {
     "start": "npm-run-all -p dev:*",
     "build": "npx @11ty/eleventy && tailwindcss -i src/css/styles.sass -o _site/css/styles.css",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alsessions/bigjconvenience.git"
+    "url": "git+https://github.com/alsessions/mekodeli.git"
   },
   "author": "Al Sessions",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alsessions/bigjconvenience.git/issues"
+    "url": "https://github.com/alsessions/mekodeli.git/issues"
   },
-  "homepage": "https://github.com/alsessions/bigjconvenience.git#readme",
+  "homepage": "https://github.com/alsessions/mekodeli.git#readme",
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0-alpha.13",
     "@tailwindcss/aspect-ratio": "^0.4.2",

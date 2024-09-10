@@ -14,9 +14,10 @@ order: 1
       </h1>
       <h2 class="py-6 md:py-20 text-xl md:text-3xl font-bold text-center text-purple-300 px-4 uppercase">
         {{ config.siteTitle }}
+        
       </h2>
     </header>
 
 <div class="min-h-screen max-w-6xl mx-auto">
-
+<p>About us to follow?</p>
 </div>
