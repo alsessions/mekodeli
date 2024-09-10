@@ -2,7 +2,11 @@ module.exports = {
   mode: "jit",
   darkMode: "media", // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        display: ['Roboto', 'sans-serif'],
+      }
+    },
   },
   variants: {},
   plugins: [

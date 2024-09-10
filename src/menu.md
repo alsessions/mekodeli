@@ -17,7 +17,7 @@ order: 1
             {{ config.siteTitle }}
         </h2>
     </header>
-    <div class="min-h-screen max-w-6xl mx-auto">
+    <di v class="min-h-screen max-w-6xl mx-auto">
        <section class=" mx-auto max-w-6xl px-4">
 <table border="0" cellspacing="0" cellpadding="0" class="table-ta1"><colgroup><col width="395"/><col width="62"/><col width="75"/><col width="65"/><col width="70"/><col width="99"/></colgroup><tr class="row-ro1"><td  >
 <p class="font-bold">Breakfast</p>
@@ -356,7 +356,7 @@ order: 1
 </td><td  >
 <p>large</p>
 </td><td  > </td><td  > </td></tr><tr ><td  >
-<p >Fries</p>
+<p class="font-bold" >Fries</p>
 </td><td  >
 <p>$3.00</p>
 </td><td>
@@ -380,12 +380,12 @@ order: 1
 </td><td  >
 <p>$6.00</p>
 </td><td  > </td><td  > </td></tr><tr ><td  > </td><td > </td><td > </td><td  > </td><td  > </td><td  > </td></tr><tr ><td  >
-<p>Fry Food</p>
+<p class="font-bold">Fried Food</p>
 </td><td > </td><td > </td><td  > </td><td  > </td><td  > </td></tr><tr ><td  >
 <p>5 Chicken Wings</p>
 </td><td  >
 <p>$4.99</p>
-</td><td > </td><td  > </td><td  > </td><td  > </td></tr><tr ><td  >
+
 
 </td><td > </td><td  > </td><td  > </td><td  > </td></tr><tr ><td  >
 <p>5 Chicken W/ Fries</p>
