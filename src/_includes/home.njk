@@ -44,25 +44,25 @@
   <body>
     {% include "navigation.njk" %}
 
-    <header class="bg-red-900">
+    <header class="bg-gradient-to-br from-green-900 to-green-600">
       <h1 class="pt-16 md:pt-24 px-4 text-center">
-        <span class="text-4xl md:text-8xl font-bold leading-none text-green-200 px-4">
+        <span class="text-4xl md:text-8xl font-bold leading-none text-white px-4">
           Meko Deli &amp; Grocery
         </span>
       </h1>
-      <h2 class="py-6 md:py-20 text-xl md:text-3xl font-bold text-center text-green-300 px-4 uppercase">
+      <h2 class="py-6 pb-16 md:py-20 text-xl md:text-3xl font-bold text-center text-green-100 px-4 uppercase">
         {{ config.siteTitle }}
       </h2>
     </header>
 
     <div class="bg-green-900 text-white">
-      <div class="max-w-6xl flex justify-between mx-auto p-4 text-sm md:text-lg font-medium">
+      <div class=" flex justify-between mx-auto p-4 text-sm md:text-lg font-medium">
         <p class="flex items-center md:font-bold">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-4 mr-2 font-bold hidden md:inline-block">
   <path stroke-linecap="round" stroke-linejoin="round" d="M9 6.75V15m6-6v8.25m.503 3.498 4.875-2.437c.381-.19.622-.58.622-1.006V4.82c0-.836-.88-1.38-1.628-1.006l-3.869 1.934c-.317.159-.69.159-1.006 0L9.503 3.252a1.125 1.125 0 0 0-1.006 0L3.622 5.689C3.24 5.88 3 6.27 3 6.695V19.18c0 .836.88 1.38 1.628 1.006l3.869-1.934c.317-.159.69-.159 1.006 0l4.994 2.497c.317.158.69.158 1.006 0Z" />
 </svg>
 
-          <a href="/contact" class="text-white font-bold">1510 Sunset Ave, Utica, NY 13502
+          <a href="/contact" class="text-white font-bold cursor-pointer">1510 Sunset Ave, Utica, NY 13502
 </a>
         </p>
         <p class="flex items-center">
@@ -78,7 +78,7 @@
       {{ content | safe }}
     </div>
 
-<div class="w-full bg-gradient-to-br from-green-800 to-green-600 mb-20 text-white">
+<div class="w-full bg-gradient-to-br from-green-900 to-green-600 mb-20 text-white">
     <section class="my-20 px-4 py-10 max-w-6xl mx-auto">
 <div class="grid md:grid-cols-2 mx-auto text-lg px-4 gap-10">
 	<div class="py-20 text-center">
