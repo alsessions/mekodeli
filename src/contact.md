@@ -35,7 +35,7 @@ order: 1
 <div class="grid md:grid-cols-2 mx-auto text-lg px-4 gap-10">
 	<div>
 	<p><a href="tel:3158643000" class="font-bold">(315) 864-3000</a></p>
-  <img src="/images/qrcode.png">
+  <img src="/images/meko-qrcode.png">
 	</div>
 	<div>
 	<div class="flex justify-between  mb-2">
