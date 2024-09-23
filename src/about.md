@@ -18,12 +18,32 @@ order: 1
 
 <div class="min-h-screen max-w-6xl mx-auto px-4 prose-lg">
 
-Welcome to Meko Deli and Grocery, your neighborhood's hidden gem in Utica, NY! At Meko Deli, we pride ourselves on offering the freshest chicken cuts and juicy wings that will tantalize your taste buds. 
+<div class="md:grid grid-cols-6">
 
-From savory deli items to carefully selected grocery and smoking products, our corner store is your one-stop shop for all your cravings. Step into Meko Deli and Grocery and experience a symphony of flavors that will transport you to a culinary paradise. 
+<div class="col-span-2">
+<img src="/images/rice.jpg" class="mx-auto" alt="rice platter image">
+</div>
 
-Whether you're in the mood for a satisfying sandwich, need to stock up on household essentials, or looking for premium smoking products, we've got you covered. Our commitment to quality is unmatched, ensuring that every bite you take is a delight for your senses. 
+<div class="col-span-4">
+<p>Welcome to Meko Deli and Grocery, your neighborhood's hidden gem in Utica, NY! At Meko Deli, we pride ourselves on offering the freshest chicken cuts and juicy wings that will tantalize your taste buds. </p>
+<p>From savory deli items to carefully selected grocery and smoking products, our corner store is your one-stop shop for all your cravings. Step into Meko Deli and Grocery and experience a symphony of flavors that will transport you to a culinary paradise. </p>
+<p class="mb-20">Whether you're in the mood for a satisfying sandwich, need to stock up on household essentials, or looking for premium smoking products, we've got you covered. Our commitment to quality is unmatched, ensuring that every bite you take is a delight for your senses. </p>
+</div>
+</div>
+<div class="md:grid grid-cols-6">
 
-Come visit us at Meko Deli and Grocery and treat yourself to a unique shopping experience filled with delectable delights. Let us be your go-to destination for all things delicious and convenient. Your taste buds will thank you!
+
+
+<div class="col-span-4">
+<p>Come visit us at Meko Deli and Grocery and treat yourself to a unique shopping experience filled with delectable delights.</p>
+
+<p>Let us be your go-to destination for all things delicious and convenient. Your taste buds will thank you!</p>
+</div>
+
+<div class="col-span-2">
+<img src="/images/grilled-cheese.jpg" class="mx-auto" alt="grilled cheese image">
+</div>
+
+</div>
 
 </div>

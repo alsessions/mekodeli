@@ -7,10 +7,10 @@ order: 1
 ---
 <div class="max-w-7xl mx-auto text-xl text-center mb-20">
     <div class="grid md:grid-cols-12 max-w-7xl px-2 md:px-4  mx-auto mt-20 mb-40 ">
-        <div class="md:col-span-7 mx-auto">
-            <img src="/images/hotdogs.avif" class="mx-auto shadow-lg rounded mt-10" alt="image of hot dogs" title="Big J's Convenience">
+        <div class="md:col-span-6 mx-auto">
+            <img src="/images/quesadillas.jpg" class="mx-auto shadow-lg rounded " alt="image of hot dogs" title="Big J's Convenience">
         </div>
-        <div class="md:col-span-5 mx-auto text-center">
+        <div class="md:col-span-6 mx-auto text-center">
             <h2 class=" text-3xl md:text-4xl mt-10 md:mt-0 mb-4 md:mb-10 font-bold mx-auto">Daily &amp; Weekly Specials</h2>
             <p class="text-xl leading-relaxed text-green-700 font-bold uppercase">Something</p>
             <p class="px-4 md:px-14">Something about something.</p>
